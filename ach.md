@@ -15,7 +15,7 @@ My main responsability was to develop the automatic extraction in R of 61 indica
 
 ### 2. Data Analyst in Spain Mission (2022)
 
-After 6 months working in BIP Spain, I was invited to join Spain Mission as a Data Analyst. In Spain Mission there was no Data department at the moment, and this position was placed under the Quality Department. 
+After 6 months working in BIP Spain, I was invited to join Spain Mission as a Data Analyst. In Spain Mission there was no Data Department at the moment, and this position was placed under the Quality Department. 
 
 The previous employee started building the database for the programs and the beneficiaries and building Power BI dashboards to monitore the projects, but all the processes were still manual. So I saw the great opportunity to automate the processes and improve the efficiency of the team. My main tasks included:
 
