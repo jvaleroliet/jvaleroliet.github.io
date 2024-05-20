@@ -29,5 +29,6 @@ The dataset used for training and testing the model is a collection of xxxx span
 4. Cleaning of the text.
 5. NER annotation.
     - For this we came up with the following tags: *Name*, *Email*, *Phone*, *Job Title*, *Company Name*, *Skill*, *Experience*, *Education*, *Keyword*, *Date of Birth*, *Location*.
+    - It should classify the resume into sections: Experience, Education, Skills, Contact Information, and Keywords.
 6. Training of the model.
 7. Evaluation of the model.
