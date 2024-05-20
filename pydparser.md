@@ -28,5 +28,6 @@ The dataset used for training and testing the model is a collection of xxxx span
     - *obs*: many names are written like *J J U U A A N N* or *J U A N*. How would we extract the name? Others are capitalized.
 4. Cleaning of the text.
 5. NER annotation.
+    - For this we came up with the following tags: *Name*, *Email*, *Phone*, *Job Title*, *Company Name*, *Skill*, *Experience*, *Education*, *Keyword*, *Date of Birth*, *Location*.
 6. Training of the model.
 7. Evaluation of the model.
