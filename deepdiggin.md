@@ -1,5 +1,5 @@
 # deepdiggin
-
+<img src="images/deepdiggin-large.png?raw=true" width="300"/>
 ## Introduction
 
 This project aims to construct an open source package to classify vinyl according to the [Goldmine Grading](https://www.goldminemag.com/collector-resources/record-grading-101).
