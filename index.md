@@ -2,9 +2,9 @@
 
 ## Projects
 
-- **vinyl_grade** is a model to classify vinyl records according to the Goldmine Grading based on an audio clip.
+- **[deepdiggin](/deepdiggin)** is a python application based on deep learning to classify vinyl records according to the Goldmine Grading, based on an audio clip.
 
-- **pydresume_es** is a python library to parse resumes in spanish.
+- **[pydresume_es](/pydresume_es)** is a python library to parse resumes in spanish.
 
 - **[pykobo](https://github.com/jvaleroliet/pykobo_legacy)** is a python library to read and write data from/to KoboToolBox.
 
