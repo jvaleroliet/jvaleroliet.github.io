@@ -1,11 +1,13 @@
-# deepdiggin
-<img src="images/deepdiggin-large.png?raw=true" width="300"/>
+<img src="images/deepdiggin-large.png?raw=true" width="1000"/>
+
+
 ## Introduction
 
 This project aims to construct an open source package to classify vinyl according to the [Goldmine Grading](https://www.goldminemag.com/collector-resources/record-grading-101).
 
 The package is constructed with my finetuned version of [facebook/wav2vec2-base](https://huggingface.co/facebook/wav2vec2-base) called [wav2vec2-base-vinyl_condition](https://huggingface.co/jvalero/wav2vec2-base-vinyl_condition)
 
+[Access to the repo.](https://github.com/jvaleroliet/deepdiggin)
 ### Features
 
 - Obtain grading condition from an audio clip of the vinyl.
