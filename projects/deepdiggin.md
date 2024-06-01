@@ -4,7 +4,7 @@ title: Deep Diggin
 ---
 
 
-<img src="images/deepdiggin-large.png?raw=true" width="1000"/>
+<img src="{{ site.baseurl }}/images/deepdiggin-large.png?raw=true" width="1000"/>
 
 
 ## Introduction
