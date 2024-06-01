@@ -4,19 +4,13 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hello! <i class="fa-hand-peace-o"></i> I'm Juan, mathematician with 3.5+ years of experience in data analysis, data visualization, and machine learning.
 </p>
 
-Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://twitter.com/mdo).
+Here are some of my free-time projects currently:
 
-In addition to using Poole as its foundation, Celeste is also built using the following open-source projects:
+* <i class="fa-volume-up"></i> [deepdiggin](http://necolas.github.io/normalize.css/), is a python application based on deep learning to classify vinyl records according to the Goldmine Grading, from an audio clip (wip).
+* <i class="fa fa-music"></i> [my spotify data](https://fontawesome.com/v4.7.0/), an analysis of my lifetime streaming history on spotify (14 years!).
+* <i class="fa fa-code"> [pykobo](http://ianlunn.github.io/Hover/), a python library to read and write data from/to KoboToolBox..
 
-* [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
-* [Font Awesome](https://fontawesome.com/v4.7.0/), the iconic font and CSS toolkit.
-* [Hover.css](http://ianlunn.github.io/Hover/), a collection of CSS3 powered hover effects.
 
-Celeste is <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by [@nicoelayda](https://github.com/nicoelayda). Learn more and contribute on [GitHub](https://github.com/nicoelayda/celeste).
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/nicoelayda/celeste/issues/new) or [ask me on Twitter](https://twitter.com/nicoelayda).
-
-Thanks for reading!
