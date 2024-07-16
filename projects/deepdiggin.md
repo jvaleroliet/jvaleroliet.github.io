@@ -14,6 +14,10 @@ This project aims to construct an open source package to classify vinyl accordin
 The package is constructed with my finetuned version of [facebook/wav2vec2-base](https://huggingface.co/facebook/wav2vec2-base) called [wav2vec2-base-vinyl_condition](https://huggingface.co/jvalero/wav2vec2-base-vinyl_condition)
 
 [Access to the repo.](https://github.com/jvaleroliet/deepdiggin)
+
+[Access to the live demo.](https://huggingface.co/spaces/jvalero/vinyl_classificator)
+
+[Access to the project development.](https://github.com/jvaleroliet/deepdiggin_project)
 ### Features
 
 - Obtain grading condition from an audio clip of the vinyl.
