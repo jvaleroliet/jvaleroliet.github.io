@@ -18,6 +18,7 @@ The package is constructed with my finetuned version of [facebook/wav2vec2-base]
 [Access to the live demo.](https://huggingface.co/spaces/jvalero/vinyl_classificator)
 
 [Access to the project development.](https://github.com/jvaleroliet/deepdiggin_project)
+
 ### Features
 
 - Obtain grading condition from an audio clip of the vinyl.
