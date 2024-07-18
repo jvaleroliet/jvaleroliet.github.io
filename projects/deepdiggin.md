@@ -29,14 +29,15 @@ The primary dataset was constructed by scraping product listings from eBay. {::c
 ### Data Collection Process
 A custom web scraping script was developed to extract relevant information including record titles, artists, condition descriptions, and audio links. The process encountered challenges such as handling dynamic website elements and inconsistencies in data format. To address these, a robust data cleaning and standardization process was implemented.
 
-### Data Preprocessing
+### Data Preprocessing
 Extracted audio files underwent format standardization. To enhance model performance, audio clips were divided into segments to capture variations in record condition across different parts of the vinyl. The dataset was then partitioned into training and testing sets for model development and evaluation. {::comment} ensuring a balanced distribution of record conditions{:/comment}.
 
 ## Model Development
 ### Understanding the Problem
 Vinyl record grading is a multi-class classification task aiming to predict the condition of a vinyl record based on its audio content. The Goldmine Grading System provides a standardized framework for categorizing record conditions.
 
-### Model Architecture
+### Model Architecture
+
 A pre-trained **Wav2Vec2** model (facebook/wav2vec2-base) was fine-tuned to create a specialized model named wav2vec2-base-vinyl_condition. This approach leverages the model's ability to extract meaningful audio representations, eliminating the need for manual feature engineering.
 
 ### Model Training and Evaluation
