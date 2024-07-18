@@ -7,6 +7,13 @@ title: Deep Diggin
 <img src="{{ site.baseurl }}/images/deepdiggin-large.png?raw=true" width="1000"/>
 
 
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/4.37.2/gradio.js"
+></script>
+
+<gradio-app src="https://jvalero-vinyl-classificator.hf.space"></gradio-app>
+
 ## Introduction
 
 This project aims to construct an open source package to classify vinyl according to the [Goldmine Grading](https://www.goldminemag.com/collector-resources/record-grading-101).
