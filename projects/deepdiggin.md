@@ -8,6 +8,12 @@ title: Deep Diggin
 
 
 # A Machine Learning Approach to Vinyl Record Grading
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/4.37.2/gradio.js"
+></script>
+
+<gradio-app src="https://jvalero-vinyl-classificator.hf.space"></gradio-app>
 
 ## Introduction
 
@@ -49,13 +55,5 @@ To address these challenges, the following strategies are currently being explor
 
 ## Gradio App
 To provide a user-friendly interface for accessing the model's capabilities, a Gradio app was developed. The app allows users to upload an audio clip of a vinyl record, and the model predicts its condition based on the Goldmine Grading System. The app provides a clear and intuitive interface, making it accessible to users with varying technical backgrounds.
-
-<script
-	type="module"
-	src="https://gradio.s3-us-west-2.amazonaws.com/4.37.2/gradio.js"
-></script>
-
-<gradio-app src="https://jvalero-vinyl-classificator.hf.space"></gradio-app>
-
 
 Future enhancements include incorporating additional features like visual inspection of the vinyl and cover.
