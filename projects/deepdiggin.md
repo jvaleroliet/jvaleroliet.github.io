@@ -17,6 +17,9 @@ title: Deep Diggin
 
 ## Introduction
 
+[https://img.shields.io/badge/GitHub-Access_to_the_repo-blue?logo=GitHub]()
+https://img.shields.io/badge/GitHub-Project-green?logo=GitHub
+
 Imagine buying a 'Near Mint' vinyl record online, only to discover it has distracting crackles upon arrival. Inconsistent vinyl grading is a constant frustration for collectors, sellers, and enthusiasts alike. Traditional methods rely on subjective human judgment, leading to discrepancies and misrepresented quality.
 
 This project introduces **Deep Diggin**, a machine learning solution that automates vinyl record grading based on the [Goldmine Grading System](https://www.goldminemag.com/collector-resources/record-grading-101). By analyzing audio samples, Deep Diggin provides objective and consistent evaluations, offering several benefits:

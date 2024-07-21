@@ -4,7 +4,7 @@ title: datosgobes
 ---
 
 # A Pythonic Interface to Spanish Open Data
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub](https://github.com/jvaleroliet/datosgobes)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jvaleroliet/datosgobes)
 
 
 [datosgobes](https://github.com/jvaleroliet/datosgobes) is a Python library designed to provide a user-friendly and efficient interface for interacting with Spain's open data portal [datos.gob.es](https://datos.gob.es). By leveraging an object-oriented approach, the library simplifies the process of searching, retrieving, and exploring datasets.
