@@ -16,9 +16,9 @@ title: Deep Diggin
 <gradio-app src="https://jvalero-vinyl-classificator.hf.space"></gradio-app>
 
 ## Introduction
+[![View on GitHub](https://img.shields.io/badge/GitHub-Access_to_the_repo-blue?logo=GitHub)](https://github.com/jvaleroliet/deepdiggin)
+[![View on GitHub](https://img.shields.io/badge/GitHub-Project-blue?green=GitHub)](https://github.com/jvaleroliet/deepdiggin_project)
 
-[https://img.shields.io/badge/GitHub-Access_to_the_repo-blue?logo=GitHub]()
-https://img.shields.io/badge/GitHub-Project-green?logo=GitHub
 
 Imagine buying a 'Near Mint' vinyl record online, only to discover it has distracting crackles upon arrival. Inconsistent vinyl grading is a constant frustration for collectors, sellers, and enthusiasts alike. Traditional methods rely on subjective human judgment, leading to discrepancies and misrepresented quality.
 
