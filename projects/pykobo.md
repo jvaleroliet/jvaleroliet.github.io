@@ -4,6 +4,7 @@ title: pykobo
 ---
 
 # Empowering Data-Driven Impact
+[![View on GitHub](https://img.shields.io/badge/GitHub-Access_to_the_repo-blue?logo=GitHub)](https://github.com/pvernier/pykobo)
 
 <img src="{{ site.baseurl }}/images/pykobo.png?raw=true" width="1000"/>
 
