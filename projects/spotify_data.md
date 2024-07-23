@@ -8,7 +8,8 @@ title: My Musical Journey
 
 For over 14 years, Spotify has been my listening platform. This project aims to get into my listening habits, uncovering patterns, preferences, and trends. Let's analize my extensive Spotify data, and try to understand the evolution of my musical tastes!
 
-*Bonus: Playlist in the end of the post!*
+The analysis into my listening habits revealed four distinct musical personalities within me. These personalities are encapsulated in four playlists, at the end of the post, each representing a unique sonic identity, generated directly from the data analysis. Get ready!
+
 
 ## Data Exploration
 
